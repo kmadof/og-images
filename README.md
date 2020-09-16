@@ -6,6 +6,8 @@
  - [photo 1](https://www.pexels.com/pl-pl/zdjecie/blask-slonca-gora-gory-lato-91223/)
  - [photo 2](https://www.pexels.com/pl-pl/zdjecie/chmury-gora-gory-kamienie-91222/)
 
+examples url - http://thecodemanual.pl/og-images/smile.html
+
 ## Whatsapp screen:
 
 ![](images/whatsapp.png?raw=true)
